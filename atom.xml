@@ -6,7 +6,7 @@
   <link href="http://j-corleone.github.io/atom.xml" rel="self"/>
   
   <link href="http://j-corleone.github.io/"/>
-  <updated>2022-05-26T04:43:36.041Z</updated>
+  <updated>2022-05-26T16:28:18.991Z</updated>
   <id>http://j-corleone.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>送别</title>
+    <link href="http://j-corleone.github.io/2022/05/27/song-bie/"/>
+    <id>http://j-corleone.github.io/2022/05/27/song-bie/</id>
+    <published>2022-05-26T16:20:14.000Z</published>
+    <updated>2022-05-26T16:28:18.991Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="诗歌" scheme="http://j-corleone.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>动态规划</title>
     <link href="http://j-corleone.github.io/2022/05/26/dp/"/>
     <id>http://j-corleone.github.io/2022/05/26/dp/</id>
     <published>2022-05-26T04:08:28.000Z</published>
-    <updated>2022-05-26T04:43:36.041Z</updated>
+    <updated>2022-05-26T06:58:05.933Z</updated>
     
     
       
