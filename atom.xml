@@ -6,7 +6,7 @@
   <link href="http://j-corleone.github.io/atom.xml" rel="self"/>
   
   <link href="http://j-corleone.github.io/"/>
-  <updated>2022-05-25T10:07:11.680Z</updated>
+  <updated>2022-05-26T04:43:36.041Z</updated>
   <id>http://j-corleone.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my-first-blolog</title>
+    <title>动态规划</title>
+    <link href="http://j-corleone.github.io/2022/05/26/dp/"/>
+    <id>http://j-corleone.github.io/2022/05/26/dp/</id>
+    <published>2022-05-26T04:08:28.000Z</published>
+    <updated>2022-05-26T04:43:36.041Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;mathcal-DP&quot;&gt;&lt;a href=&quot;#mathcal-DP&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="DP" scheme="http://j-corleone.github.io/tags/DP/"/>
+    
+    <category term="算法" scheme="http://j-corleone.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>my first blog</title>
     <link href="http://j-corleone.github.io/2022/05/25/my-first-blog/"/>
     <id>http://j-corleone.github.io/2022/05/25/my-first-blog/</id>
     <published>2022-05-25T04:13:42.000Z</published>
-    <updated>2022-05-25T10:07:11.680Z</updated>
+    <updated>2022-05-26T04:05:19.940Z</updated>
     
     
       
