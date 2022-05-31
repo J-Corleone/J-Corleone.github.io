@@ -6,7 +6,7 @@
   <link href="http://j-corleone.github.io/atom.xml" rel="self"/>
   
   <link href="http://j-corleone.github.io/"/>
-  <updated>2022-05-27T10:57:20.434Z</updated>
+  <updated>2022-05-31T05:43:38.486Z</updated>
   <id>http://j-corleone.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my first blog</title>
-    <link href="http://j-corleone.github.io/2022/05/29/my-first-blog/"/>
-    <id>http://j-corleone.github.io/2022/05/29/my-first-blog/</id>
-    <published>2022-05-29T04:13:42.000Z</published>
-    <updated>2022-05-27T10:57:20.434Z</updated>
+    <title>《Spark HA &amp; Yarn配置》</title>
+    <link href="http://j-corleone.github.io/2022/05/31/spark3/"/>
+    <id>http://j-corleone.github.io/2022/05/31/spark3/</id>
+    <published>2022-05-31T05:41:17.000Z</published>
+    <updated>2022-05-31T05:43:38.486Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;为什么第一行写不了中文&quot;&gt;&lt;a href=&quot;#为什么第一行写不了中文&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;Spark-Standalone-HA模式&lt;br&gt;Spark Standalone集群是Master-Slaves架构的集群模式,和大部分的Master-Slaves结构集群一样,存在&lt;br&gt;着Master</summary>
         
       
     
@@ -38,50 +38,44 @@
   </entry>
   
   <entry>
-    <title>送别</title>
-    <link href="http://j-corleone.github.io/2022/05/27/song-bie/"/>
-    <id>http://j-corleone.github.io/2022/05/27/song-bie/</id>
-    <published>2022-05-26T16:20:14.000Z</published>
-    <updated>2022-05-26T16:41:06.669Z</updated>
+    <title>《Spark local&amp; stand-alone配置》</title>
+    <link href="http://j-corleone.github.io/2022/05/31/spark2/"/>
+    <id>http://j-corleone.github.io/2022/05/31/spark2/</id>
+    <published>2022-05-31T05:36:26.000Z</published>
+    <updated>2022-05-31T05:41:06.167Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;p&gt;Spark Standalone集群是Master-Slaves架构的集群模式,和大部分的Master-Slaves结构集群一样,存在&lt;br&gt;着Master 单点故障(SPOF)的问题。简单理解为，spark-Standalone 模式下为 master</summary>
         
       
     
     
     
-    
-    <category term="诗歌" scheme="http://j-corleone.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
     
   </entry>
   
   <entry>
-    <title>动态规划</title>
-    <link href="http://j-corleone.github.io/2022/05/26/dp/"/>
-    <id>http://j-corleone.github.io/2022/05/26/dp/</id>
-    <published>2022-05-26T04:08:28.000Z</published>
-    <updated>2022-05-26T06:58:05.933Z</updated>
+    <title>《spark基础环境配置》</title>
+    <link href="http://j-corleone.github.io/2022/05/31/spark1/"/>
+    <id>http://j-corleone.github.io/2022/05/31/spark1/</id>
+    <published>2022-05-31T05:25:52.000Z</published>
+    <updated>2022-05-31T05:36:01.740Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;mathcal-DP&quot;&gt;&lt;a href=&quot;#mathcal-DP&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;打开一个hosts映射文件,为了保证后续相互关联的虚拟机能够通过主机名进行访问，根据实际需求配置&lt;br&gt;对应的IP和主机名映射，分别将主机名master、slave1、slave2 与IP地址 192.168.88.134、&lt;br&gt;192.168.88.135</summary>
         
       
     
     
     
-    
-    <category term="DP" scheme="http://j-corleone.github.io/tags/DP/"/>
-    
-    <category term="算法" scheme="http://j-corleone.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
